@@ -1,6 +1,6 @@
 /*
- * Simple C program to output a sentence.
- */
+Simple C program to print a string.
+*/
 #include <stdio.h>
 int main(void)
 {
