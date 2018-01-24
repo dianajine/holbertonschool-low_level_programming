@@ -1,4 +1,5 @@
 #include <stdio.h>
+/* Print alphabet. */
 
 int main(void)
 {
