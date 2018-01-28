@@ -1,6 +1,11 @@
 #include <stdio.h>
+/**
+ * main - prints alphabet backwards.
+ *
+ * Return: 0.
+ */
 
-int main (void)
+int main(void)
 {
 char z = 'z';
 while (z >= 'a')
@@ -11,4 +16,3 @@ z--;
 putchar('\n');
 return (0);
 }
-

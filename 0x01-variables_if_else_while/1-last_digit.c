@@ -1,8 +1,11 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-
-/* Assigns random variable to n */
+/**
+ * main - assigns a random number to variable n each time program is executed.
+ *
+ * Return: 0.
+ */
 int main(void)
 {
 int n, lastDigit;

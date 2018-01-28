@@ -1,6 +1,11 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
+/**
+ * main - assigns a random number to n each time it is executed.
+ *
+ * Return: 0.
+ */
 
 int main(void)
 {
