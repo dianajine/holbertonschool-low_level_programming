@@ -1,13 +1,13 @@
 #include <stdio.h>
 int main(void)
 {
-int left, right;
-for (left = '0'; left <= '9'; left++)
-for (right = '0'; right <= '9'; right++)
+int a, b;
+for (a = '0'; a <= '9'; a++)
+for (b = '0'; b <= '9'; b++)
 {
-putchar(left);
-putchar(right);
-if (left != '9' || right != '9')
+putchar(a);
+putchar(b);
+if (a != '9' || b != '9')
 putchar(',');
 putchar(' ');
 }
